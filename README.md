@@ -9,7 +9,7 @@ An interactive web application built with Python and Streamlit to predict custom
 ![Bank Marketing App Demo](./assets/stream.gif) 
 
 
-## Unlocking Customer Intent with Machine Learning
+## 🎯 Unlocking Customer Intent with Machine Learning
 
 Imagine: A bank campaign calls. Do they subscribe to a term deposit, or not? This project isn't just about answering "yes" or "no"; it's about diving deep into the "why" behind customer decisions and empowering financial institutions with predictive intelligence.
 
